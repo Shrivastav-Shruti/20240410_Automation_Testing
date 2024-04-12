@@ -41,7 +41,7 @@ Prerequisites:
 **[Configuration:](url)**
 
 
-- Ensure that the WebDriver executables (chromedriver/geckodriver) are present in your system PATH or specify their path in the test scripts.
+- Ensure that the WebDriver executables (chromedriver/firefoxdriver) are present in your system PATH or specify their path in the test scripts.
 - Update the project dependencies using Maven (pom.xml).
 
 **[Running Tests:](url)**
